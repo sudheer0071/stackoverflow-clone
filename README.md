@@ -84,7 +84,6 @@ _Follow the steps properly (manual or Docker) and you are good to go._
 
 #### VIDEO - [Watch the video](https://www.youtube.com/watch?v=bUAAgfGOfYg)
 
-_Video Last Updated on 7th March, 2022_
 
 #### IMAGES
 
